@@ -30,5 +30,3 @@ java -cp src StudentManagementSystem
 # Learning Purpose
 
 This project was created while learning Java fundamentals and Object-Oriented Programming.
-
-This project was created while learning Java fundamentals and Object-Oriented Programming.
