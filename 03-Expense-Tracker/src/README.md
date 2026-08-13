@@ -34,6 +34,3 @@ The application can create an expenses.txt file when expenses are saved.
 
 This project was developed to practice Java Collections and basic File Handling along with Object-Oriented Programming.
 
-Learning Purpose
-
-This project was developed to practice Java Collections and basic File Handling along with Object-Oriented Programming.
